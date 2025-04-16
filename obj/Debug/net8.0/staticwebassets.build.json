@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "bD5rVwNJRWWJDWLsFF+n3YYTjyY6Li0HJM+JHMB36hA=",
+  "Source": "CasaMateriaisDeConstrucao",
+  "BasePath": "_content/CasaMateriaisDeConstrucao",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CasaMateriaisDeConstrucao\\wwwroot",
+      "Source": "CasaMateriaisDeConstrucao",
+      "ContentRoot": "D:\\atividades\\João_Paulo\\CasaMateriaisDeConstrucao\\wwwroot\\",
+      "BasePath": "_content/CasaMateriaisDeConstrucao",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "d:\\atividades\\João_Paulo\\CasaMateriaisDeConstrucao\\wwwroot\\index.html",
+      "SourceId": "CasaMateriaisDeConstrucao",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\atividades\\João_Paulo\\CasaMateriaisDeConstrucao\\wwwroot\\",
+      "BasePath": "_content/CasaMateriaisDeConstrucao",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "d:\\atividades\\João_Paulo\\CasaMateriaisDeConstrucao\\wwwroot\\Produtos.html",
+      "SourceId": "CasaMateriaisDeConstrucao",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\atividades\\João_Paulo\\CasaMateriaisDeConstrucao\\wwwroot\\",
+      "BasePath": "_content/CasaMateriaisDeConstrucao",
+      "RelativePath": "Produtos.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Produtos.html"
+    },
+    {
+      "Identity": "d:\\atividades\\João_Paulo\\CasaMateriaisDeConstrucao\\wwwroot\\Sobre.html",
+      "SourceId": "CasaMateriaisDeConstrucao",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\atividades\\João_Paulo\\CasaMateriaisDeConstrucao\\wwwroot\\",
+      "BasePath": "_content/CasaMateriaisDeConstrucao",
+      "RelativePath": "Sobre.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Sobre.html"
+    }
+  ]
+}
